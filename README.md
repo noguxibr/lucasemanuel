@@ -70,7 +70,7 @@ Sempre buscando aprender, evoluir e transformar conhecimento em soluções prát
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://[www.linkedin.com/in/noguxibr](https://www.linkedin.com/in/lucasemanuelmiranda/)/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucasemanuelmiranda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:lucasmiranda3105@gmail.com">
